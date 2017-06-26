@@ -1,0 +1,98 @@
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\avcodec-57.dll
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\avdevice-57.dll
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\avfilter-6.dll
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\avformat-57.dll
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\avutil-55.dll
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\booth.dll
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\Config.xml
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\cs_framework.dll
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\cs_logic.dll
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\cs_xc.dll
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\DevComponents.DotNetBar2.dll
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\DevComponents.DotNetBar2.xml
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\DllDeinterlace.dll
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\d_framework.dll
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\H264Play.dll
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\hi_h264dec_v.dll
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\libeay32.dll
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\libportaudio-2.dll.dll
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\libx264-146.dll
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\License.xml
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\m_captureAudioDevice.dll
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\m_captureDesk.dll
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\m_recorder.dll
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\m_rtsp.dll
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\m_transferDesk.dll
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\NetSdk.dll
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\opencv_core248.dll
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\opencv_highgui248.dll
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\postproc-54.dll
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\SDL2.dll
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\ssleay32.dll
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\StreamReader.dll
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\swresample-2.dll
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\swscale-4.dll
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\UserInfo.xml
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\更新说明.txt
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\Booth Camera.exe
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\Booth Camera.pdb
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\AeroEduLib.dll
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\bin\Release\AeroEduLib.pdb
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\obj\Release\Booth Camera.csprojResolveAssemblyReference.cache
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\obj\Release\Booth_Camera.frmReg.resources
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\obj\Release\Booth_Camera.Properties.Resources.resources
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\obj\Release\imgList.imglist.resources
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\obj\Release\Booth Camera.csproj.GenerateResource.Cache
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\obj\Release\Booth Camera.exe
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\obj\Release\Booth Camera.pdb
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\obj\Release\Booth_Camera.frmMain1.resources
+C:\TFS\航天云教育U3软件\lubo_rtsp预览版\Booth Camera\obj\Release\Booth_Camera.Form1.resources
+D:\lubo_rtsp预览版 深圳\Booth Camera\obj\Release\Booth Camera.exe
+D:\lubo_rtsp预览版 深圳\Booth Camera\obj\Release\Booth Camera.pdb
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\avcodec-57.dll
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\avdevice-57.dll
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\avfilter-6.dll
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\avformat-57.dll
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\avutil-55.dll
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\booth.dll
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\Config.xml
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\cs_framework.dll
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\cs_logic.dll
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\cs_xc.dll
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\DevComponents.DotNetBar2.dll
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\DevComponents.DotNetBar2.xml
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\DllDeinterlace.dll
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\d_framework.dll
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\H264Play.dll
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\hi_h264dec_v.dll
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\libeay32.dll
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\libportaudio-2.dll.dll
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\libx264-146.dll
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\License.xml
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\m_captureAudioDevice.dll
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\m_captureDesk.dll
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\m_recorder.dll
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\m_rtsp.dll
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\m_transferDesk.dll
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\NetSdk.dll
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\opencv_core248.dll
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\opencv_highgui248.dll
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\postproc-54.dll
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\SDL2.dll
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\ssleay32.dll
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\StreamReader.dll
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\swresample-2.dll
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\swscale-4.dll
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\UserInfo.xml
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\更新说明.txt
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\Booth Camera.exe
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\Booth Camera.pdb
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\AeroEduLib.dll
+D:\lubo_rtsp预览版 深圳\Booth Camera\bin\Release\AeroEduLib.pdb
+D:\lubo_rtsp预览版 深圳\Booth Camera\obj\Release\Booth Camera.csprojResolveAssemblyReference.cache
+D:\lubo_rtsp预览版 深圳\Booth Camera\obj\Release\Booth_Camera.Form1.resources
+D:\lubo_rtsp预览版 深圳\Booth Camera\obj\Release\Booth_Camera.frmMain1.resources
+D:\lubo_rtsp预览版 深圳\Booth Camera\obj\Release\Booth_Camera.frmReg.resources
+D:\lubo_rtsp预览版 深圳\Booth Camera\obj\Release\Booth_Camera.Properties.Resources.resources
+D:\lubo_rtsp预览版 深圳\Booth Camera\obj\Release\imgList.imglist.resources
+D:\lubo_rtsp预览版 深圳\Booth Camera\obj\Release\Booth Camera.csproj.GenerateResource.Cache
